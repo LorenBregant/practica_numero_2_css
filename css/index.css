@@ -50,3 +50,12 @@ nav{
 .nav-item:hover a{
     color: #007700;
 }
+
+.login{
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.login:hover{
+    background-color: darkblue;
+}
